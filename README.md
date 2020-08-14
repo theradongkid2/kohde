@@ -1,2 +1,2 @@
 # tetris
-Tetris game on tetris.kohde.xyz
+Tetris game on tetris.rusekronos.xyz
